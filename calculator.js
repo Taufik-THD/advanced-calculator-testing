@@ -2,8 +2,7 @@
 
 class Calculator {
   //write your code here
-  constructor() {
-    this.number = 1
+  constructor(number=1) {
   }
 
   add(number) {
