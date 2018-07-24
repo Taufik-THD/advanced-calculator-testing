@@ -3,6 +3,7 @@
 class Calculator {
   //write your code here
   constructor(number=1) {
+    this.number = number
   }
 
   add(number) {
